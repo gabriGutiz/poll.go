@@ -1,0 +1,4 @@
+github.com/gabriGutiz/easy-sse.go v1.1.0 h1:8o5rMpyBZ9jH7S7BOPdj0uKUySmlwTFqdbMya3P1tRA=
+github.com/gabriGutiz/easy-sse.go v1.1.0/go.mod h1:Cl8LVUviGCZdKm+PPKur2KBScKx9N+ODgrEEpTHgj+0=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
